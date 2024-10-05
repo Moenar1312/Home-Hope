@@ -1,0 +1,47 @@
+.bg-img {
+    background: url(https://websitedemos.net/hope-02/wp-content/uploads/sites/1410/2023/10/1-services.jpg);
+    background-position: cover;
+    background-size: cover;
+    height: 70vh;
+    position: relative;
+}
+
+.navi {
+    font-size: 19px;
+}
+
+.text-content {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+}
+
+.river {
+    width: 100%;
+    border-radius: 10px;
+    height: 85vh;
+}
+
+.paragraph {
+    font-size: 23px;
+    line-height: 40px;
+}
+
+.button {
+    width: 13rem;
+    height: 3rem;
+}
+
+.second-img {
+    background: url(https://websitedemos.net/hope-02/wp-content/uploads/sites/1410/2023/10/2-services.jpg);
+    background-position: cover;
+    background-size: cover;
+    height: 90vh;
+    position: relative;
+}
+
+.ending {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}

@@ -1,0 +1,47 @@
+
+.bg-img {
+    background: url(https://websitedemos.net/hope-02/wp-content/uploads/sites/1410/2023/10/1-about.jpg);
+    background-size: cover;
+    background-position: cover;
+    height: 70vh;
+    position: relative;
+}
+
+.text-content {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+}
+
+.writer {
+    border-radius: 10px;
+    width: 100%;
+}
+
+.aboutme {
+    font-size: 23px;
+}
+
+.review {
+    background: rgb(215, 213, 213);
+}
+
+.flora {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.client {
+    font-size: 25px;
+}
+
+
+.button {
+    width: 13rem;
+    height: 3rem;
+}
+
+.navi {
+    font-size: 19px;
+}

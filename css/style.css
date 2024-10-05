@@ -1,0 +1,83 @@
+body {
+    height: 100%;
+    /* margin: 40px auto; */
+}
+.bg-img {
+    background: url(https://websitedemos.net/hope-02/wp-content/uploads/sites/1410/2023/10/1-home.jpg);
+    background-size: cover;
+    background-position: cover;
+    height: 100vh;
+    position: relative;
+}
+
+.nav-link {
+    text-transform: uppercase;
+    
+}
+
+.text-content {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    font-size: 64px;
+}
+
+.button {
+    width: 13rem;
+    height: 3rem;
+}
+
+.id {
+    background: rgb(241, 238, 238);
+}
+
+.flora {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.client {
+    font-size: 25px;
+}
+
+.writer {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.aboutme {
+    font-size: 23px;
+}
+
+.smaller {
+    font-size: 20px;
+}
+
+.second-img {
+    background: url(https://websitedemos.net/hope-02/wp-content/uploads/sites/1410/2023/10/7-home.jpg);
+    background-position: cover;
+    background-size: cover;
+    height: 90vh;
+    position: relative;
+}
+
+.text-content2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.ending {
+    font-size: 20px;
+}
+
+.navi {
+    font-size: 19px;
+}

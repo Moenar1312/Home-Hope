@@ -1,0 +1,34 @@
+.bg-img {
+    background: url(https://websitedemos.net/hope-02/wp-content/uploads/sites/1410/2023/10/1-contact.jpg);
+    background-size: cover;
+    background-position: cover;
+    height: 80vh;
+    position: relative;
+}
+
+.navi {
+    font-size: 19px;
+}
+.text-content {
+    position: absolute;
+    top: 60%;
+    left: 5%;
+}
+
+.back {
+    background-color: rgb(237, 234, 234);
+}
+
+.paragraph {
+    font-size: 19px;
+}
+
+
+.button {
+    width: 13rem;
+    height: 3rem;
+}
+
+.ending {
+    font-size: 23px;
+}
